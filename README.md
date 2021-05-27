@@ -12,4 +12,16 @@ P para pausar. F para alternar entre Tela cheia e Modo janela R para reiniciar.
 	Batotas:	
 	1 - Diminuir a arena
 	2 - Aumentar a arena
-    Poderá utilizar a tecla 1 e 2 para aumentar e diminuir arena
+
+<h5>COMPILAR DO FONTE</h5>
+
+Para compilar do codigo fonte, irá necessitar cmake pelo menos na versão 1.16.
+<br>Para compilar execute o comando no diretorio src/
+
+    cmake CMakeLists.txt
+
+<h5>BINARIOS</h5>
+
+Ambos os binarios ja se encontram compilados no diretorio bin/
+Echolands.exe - Windows<br>
+EchoLands.out - Linux
