@@ -1,4 +1,6 @@
 <h1>EchoLands</h1>
+<h5>SOBRE:</h5>
+O jogo foi um trabalho de gupo realizado para a discplina de computação gráfica, é baseado no jogo Echo Lands do ludum dare(https://ldjam.com/events/ludum-dare/38/echo-lands)
 
 <h5>OBJETIVO: </h5>
 Matar todos os monstros para subir de nível. Se for atacado a arena reduz, se cair da arena perde. Parta as jarras para
